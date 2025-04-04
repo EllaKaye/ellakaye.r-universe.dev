@@ -6,5 +6,9 @@
     {
         "package": "aperol",
         "url": "https://github.com/EllaKaye/aperol"
+    },
+    {
+        "package": "basepenguins",
+        "url": "https://github.com/EllaKaye/basepenguins"
     }  
 ]
