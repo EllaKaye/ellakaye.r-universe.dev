@@ -10,5 +10,9 @@
     {
         "package": "basepenguins",
         "url": "https://github.com/EllaKaye/basepenguins"
+    },
+    {
+        "package": "pregnancy",
+        "url": "https://github.com/EllaKaye/pregnancy"
     }  
 ]
