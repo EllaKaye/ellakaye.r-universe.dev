@@ -14,5 +14,9 @@
     {
         "package": "pregnancy",
         "url": "https://github.com/EllaKaye/pregnancy"
+    },
+    {
+        "package": "aochelpers",
+        "url": "https://github.com/EllaKaye/aochelpers"
     }  
 ]
