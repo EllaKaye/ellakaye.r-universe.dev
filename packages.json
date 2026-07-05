@@ -18,5 +18,9 @@
     {
         "package": "aochelpers",
         "url": "https://github.com/EllaKaye/aochelpers"
+    },
+    {
+        "package": "jugglr",
+        "url": "https://github.com/EllaKaye/jugglr"
     }  
 ]
